@@ -172,7 +172,7 @@ All support locale and property
       "internet.domainSuffix",
       "internet.domainWord",
       "internet.ip",
-      "internet.ipv7",
+      "internet.ipv6",
       "internet.userAgent",
       "internet.color",
       "internet.mac",
